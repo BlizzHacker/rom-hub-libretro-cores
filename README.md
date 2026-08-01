@@ -1,8 +1,5 @@
 # libretro cores plugin for ROM Hub
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
-Oklahoma non-profit corporation with 501(c)(3) status pending.
-
 Implements the RPP v1 `cores` capability: emulator cores from libretro's
 public buildbot, downloaded into the Hub's configured cores directory.
 
